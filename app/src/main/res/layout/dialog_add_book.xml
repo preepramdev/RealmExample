@@ -29,13 +29,13 @@
                 android:textStyle="bold" />
 
             <EditText
-                android:id="@+id/edt_title"
+                android:id="@+id/edt_book_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="@string/title" />
 
             <EditText
-                android:id="@+id/edt_author"
+                android:id="@+id/edt_book_author"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="@string/author" />

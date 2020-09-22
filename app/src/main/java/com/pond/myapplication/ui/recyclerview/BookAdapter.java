@@ -1,4 +1,4 @@
-package com.pond.myapplication.ui.adapter;
+package com.pond.myapplication.ui.recyclerview;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,7 +9,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.pond.myapplication.R;
 import com.pond.myapplication.model.BookModel;
-import com.pond.myapplication.ui.viewholder.BookViewHolder;
 
 import java.util.List;
 

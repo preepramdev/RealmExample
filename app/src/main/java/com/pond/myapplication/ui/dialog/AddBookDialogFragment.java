@@ -59,8 +59,8 @@ public class AddBookDialogFragment extends DialogFragment {
     }
 
     private void bindView(View view) {
-        edtBookTitle = view.findViewById(R.id.edt_title);
-        edtBookAuthor = view.findViewById(R.id.edt_author);
+        edtBookTitle = view.findViewById(R.id.edt_book_title);
+        edtBookAuthor = view.findViewById(R.id.edt_book_author);
         btnAdd = view.findViewById(R.id.btn_add);
         btnCancel = view.findViewById(R.id.btn_cancel);
     }

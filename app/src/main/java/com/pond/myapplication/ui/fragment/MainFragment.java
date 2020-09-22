@@ -1,4 +1,4 @@
-package com.pond.myapplication.ui;
+package com.pond.myapplication.ui.fragment;
 
 import android.os.Bundle;
 
@@ -15,7 +15,7 @@ import android.widget.Button;
 import com.pond.myapplication.R;
 import com.pond.myapplication.database.DatabaseManager;
 import com.pond.myapplication.model.BookModel;
-import com.pond.myapplication.ui.adapter.BookAdapter;
+import com.pond.myapplication.ui.recyclerview.BookAdapter;
 import com.pond.myapplication.ui.dialog.AddBookDialogFragment;
 import com.pond.myapplication.ui.dialog.BookDetailDialogFragment;
 import com.pond.myapplication.ui.dialog.RemoveBookDialogFragment;

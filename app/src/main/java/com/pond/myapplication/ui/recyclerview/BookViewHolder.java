@@ -1,4 +1,4 @@
-package com.pond.myapplication.ui.viewholder;
+package com.pond.myapplication.ui.recyclerview;
 
 import android.view.View;
 import android.widget.Button;

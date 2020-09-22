@@ -1,10 +1,11 @@
-package com.pond.myapplication.ui;
+package com.pond.myapplication.ui.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
 import com.pond.myapplication.R;
+import com.pond.myapplication.ui.fragment.MainFragment;
 
 public class MainActivity extends AppCompatActivity {
 
